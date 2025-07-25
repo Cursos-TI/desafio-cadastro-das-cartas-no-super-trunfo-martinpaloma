@@ -4,7 +4,7 @@
 int main() {
     // Carta 1
     char estado1[50];
-    char codigo1[4];
+    char codigo1[5];
     char nomeCidade1[50];
     float populacao1; // agora é float, em milhões
     float area1;
@@ -13,7 +13,7 @@ int main() {
 
     // Carta 2
     char estado2[50];
-    char codigo2[4];
+    char codigo2[5];
     char nomeCidade2[50];
     float populacao2;
     float area2;
